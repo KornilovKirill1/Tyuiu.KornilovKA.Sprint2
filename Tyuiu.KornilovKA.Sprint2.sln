@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{B90BD1E6
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KornilovKA.Sprint2.Task0.V20", "Tyuiu.KornilovKA.Sprint2.Task0.V20\Tyuiu.KornilovKA.Sprint2.Task0.V20.csproj", "{6903013F-9EDC-4155-A494-491E5C0E99D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KornilovKA.Sprint2.Task0.V20.Lib", "Tyuiu.KornilovKA.Sprint2.Task0.V20.Lib\Tyuiu.KornilovKA.Sprint2.Task0.V20.Lib.csproj", "{76FF015A-A00A-47D9-A9CA-627F369600E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KornilovKA.Sprint2.Task0.V20.Test", "Tyuiu.KornilovKA.Sprint2.Task0.V20.Test\Tyuiu.KornilovKA.Sprint2.Task0.V20.Test.csproj", "{975E2EC4-9533-4166-87A7-E0E0A6D7AED2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +21,22 @@ Global
 		{6903013F-9EDC-4155-A494-491E5C0E99D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6903013F-9EDC-4155-A494-491E5C0E99D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6903013F-9EDC-4155-A494-491E5C0E99D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76FF015A-A00A-47D9-A9CA-627F369600E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76FF015A-A00A-47D9-A9CA-627F369600E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76FF015A-A00A-47D9-A9CA-627F369600E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76FF015A-A00A-47D9-A9CA-627F369600E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{975E2EC4-9533-4166-87A7-E0E0A6D7AED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{975E2EC4-9533-4166-87A7-E0E0A6D7AED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{975E2EC4-9533-4166-87A7-E0E0A6D7AED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{975E2EC4-9533-4166-87A7-E0E0A6D7AED2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{6903013F-9EDC-4155-A494-491E5C0E99D8} = {B90BD1E6-EE91-4934-8FB3-0D34B4F5B653}
+		{76FF015A-A00A-47D9-A9CA-627F369600E2} = {B90BD1E6-EE91-4934-8FB3-0D34B4F5B653}
+		{975E2EC4-9533-4166-87A7-E0E0A6D7AED2} = {B90BD1E6-EE91-4934-8FB3-0D34B4F5B653}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {15FE818C-1C09-4D36-9807-CEDA7C443DC5}
