@@ -19,7 +19,7 @@ namespace Tyuiu.KornilovKA.Sprint2.Task0.V20
             Console.WriteLine("* Спринт #2                                                               *");
             Console.WriteLine("* Тема: Операции сравнения                                                *");
             Console.WriteLine("* Задание #0                                                              *");
-            Console.WriteLine("* Вариант #20                                                              *");
+            Console.WriteLine("* Вариант #20                                                             *");
             Console.WriteLine("* Выполнил: Корнилов Кирилл Андреевич | ИИПб-23-1                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
