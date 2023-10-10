@@ -17,10 +17,10 @@ namespace Tyuiu.KornilovKA.Sprint2.Task5.V12.Test
             int m = 10;
             int n = 28;
 
-            double wait = 1980.10;
+            string wait = "27.10.1980";
 
-            double res = ds.FindDateOfPreviousDay(g, m, n);
-            Assert.AreEqual()
+            string res = ds.FindDateOfPreviousDay(g, m, n);
+            Assert.AreEqual(wait, res);
         }
     }
 }
