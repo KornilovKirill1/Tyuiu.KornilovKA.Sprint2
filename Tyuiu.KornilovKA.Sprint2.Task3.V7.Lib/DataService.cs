@@ -14,7 +14,7 @@ namespace Tyuiu.KornilovKA.Sprint2.Task3.V7.Lib
         {
             double y = 0;
 
-            if(x > 1)
+            if(x > 0)
             {
                 y =  Math.Round(x * Math.Pow((Math.Pow(x, 2) + 1) / (x - 1), x), 3);
             } else
