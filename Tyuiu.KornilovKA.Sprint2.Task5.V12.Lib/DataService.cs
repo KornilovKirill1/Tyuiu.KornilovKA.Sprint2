@@ -57,7 +57,26 @@ namespace Tyuiu.KornilovKA.Sprint2.Task5.V12.Lib
 
             }
 
-            return $"{n}.{m}.{g}";
+            if(m < 10)
+            {
+                if(n < 10)
+                {
+                    return $"0{n}.0{m}.{g}";
+                } else
+                {
+                    return $"{n}.0{m}.{g}";
+                }
+            } else
+            {
+                if (n < 10)
+                {
+                    return $"0{n}.{m}.{g}";
+                }
+                else
+                {
+                    return $"{n}.{m}.{g}";
+                }
+            }
         }
     }
 }
